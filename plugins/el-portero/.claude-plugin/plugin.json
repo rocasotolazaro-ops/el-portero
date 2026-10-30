@@ -1,0 +1,7 @@
+{
+  "name": "el-portero",
+  "version": "0.1.0",
+  "description": "El Portero: clasifica cada orden y la envía a un modelo más barato cuando es sencilla, para ahorrar créditos.",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}

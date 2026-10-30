@@ -1,0 +1,7 @@
+{
+  "name": "el-portero",
+  "owner": { "name": "rocasotolazaro" },
+  "plugins": [
+    { "name": "el-portero", "source": "./plugins/el-portero", "description": "Clasifica cada orden y la envía a un modelo más barato cuando es sencilla, para ahorrar créditos." }
+  ]
+}
